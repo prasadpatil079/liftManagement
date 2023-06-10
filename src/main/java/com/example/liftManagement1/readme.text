@@ -1,0 +1,10 @@
+Create a  Lift management system:
+
+Lift: LiftNo, CapacityInWeight, CapacityInPerson, List<Passenger>
+Passenger: PassengerId, Lift, Weight
+
+POST: Add Lift, Passenger
+
+1. Delete all passengers with ID 5
+2. Find the maximum number of people with weight X that can travel in a given lift M
+3. Find the number of people with a weight greater than 50 in a given lift M
